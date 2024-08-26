@@ -4,6 +4,8 @@ During my training and certification courses, I honed my ability to work with co
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
+Here is my CV in [PDF](https://github.com/rhtithi/rhtithi/blob/main/Data%20Analyst%20Resume%2C%20Tithi.pdf).
+
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 <!---
